@@ -4,7 +4,7 @@
   "description": "this is projects and drafts I use to answer stackoverflow Hello Test 2",
   "main": "callYouTubeAPI.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/masoodmehrabi/stackoverflow/issues"
   },
-  "homepage": "https://github.com/masoodmehrabi/stackoverflow#readme"
+  "homepage": "https://github.com/masoodmehrabi/stackoverflow#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
 }
