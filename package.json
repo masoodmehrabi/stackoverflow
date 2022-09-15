@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@hapi/hapi": "^20.2.2",
+    "dayjs": "^1.11.5",
     "hapi": "^18.1.0",
     "socket.io": "^4.5.2",
     "socket.io-client": "^4.5.2"
